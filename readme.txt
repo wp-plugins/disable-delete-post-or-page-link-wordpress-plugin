@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: Jeremy Selph
+Contributors: jeremyselph
 Donate link: http://www.reactivedevelopment.net/snippets/disable-delete-post-page/
 Tags: delete post, delete, delete page
 Requires at least: 3.1.1
