@@ -22,13 +22,13 @@ Whatever the reason is Our Disable Delete Post or Page Link Plugin removes the d
 The plugin dose not add anyhting to your current theme. It adds some css, jQuery and PHP in the admin area to hide the delete links in those areas. 
  
 Note:
-To use press screen options and select the check box called “Remove Trash Link”. Feel free to use and include in your WordPress Installs, please think of us if you need a custom theme or plugin developed!!
+To use press screen options and select the check box called &quot;Remove Trash Link&quot;. Feel free to use and include in your WordPress Installs, please think of us if you need a custom theme or plugin developed!!
 
 == Installation ==
 
-1. Download the disable-delete-post.zip file to your computer.
+1. Download the disable-delete-post-or-page-link-wordpress-plugin.zip file to your computer.
 1. Unzip the file.
-1. Upload the `disable-delete-post` directory to your `/wp-content/plugins/` directory.
+1. Upload the `disable-delete-post-or-page-link-wordpress-plugin` folder to your `/wp-content/plugins/` directory.
 1. Activate the plugin through the 'Plugins' menu in WordPress.
 
 == Frequently Asked Questions ==
