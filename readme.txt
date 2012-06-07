@@ -3,7 +3,7 @@ Contributors: jeremyselph
 Donate link: http://www.reactivedevelopment.net/snippets/disable-delete-post-page/
 Tags: delete post, delete, delete page
 Requires at least: 3.1.1
-Tested up to: 3.3.2
+Tested up to: 3.4.0
 Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -22,7 +22,7 @@ Whatever the reason is Our Disable Delete Post or Page Link Plugin removes the d
 The plugin dose not add anyhting to your current theme. It adds some css, jQuery and PHP in the admin area to hide the delete links in those areas. 
  
 Note:
-To use press screen options and select the check box called &quot;Remove Trash Link&quot;. Feel free to use and include in your WordPress Installs, please think of us if you need a custom theme or plugin developed!!
+To use press screen options and select the check box called &quot;Remove Trash Link&quot;. Feel free to use and include in your WordPress Installs, please think of us if you need a custom theme or plugin developed!! info@reactivedevelopment.net
 
 == Installation ==
 
