@@ -1,12 +1,12 @@
 === Plugin Name ===
 Contributors: jeremyselph
-Donate link: http://www.reactivedevelopment.net/snippets/disable-delete-post-page/
+Donate link: http://reactivedevelopment.net/disable-delete-post-page
 Tags: delete post, delete, delete page
 Requires at least: 3.1.1
-Tested up to: 3.4.0
+Tested up to: 4.1.1
 Stable tag: 4.3
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License: GPLv3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 Allows the administrator to remove the delete post link from the page lists and from the publish box in edit view.
 
